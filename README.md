@@ -1,9 +1,9 @@
 # PetrolAPI
-TikTok API
+Social media app API
 
 # PetrolAPI - Terms of Service
 
-Thank you for using PetrolAPI, a TikTok Developer API app ("the App"). By accessing or using the App, you agree to comply with and be bound by these Terms of Service. If you do not agree with any part of these terms, you may not use the App.
+Thank you for using PetrolAPI, a Developer API app ("the App"). By accessing or using the App, you agree to comply with and be bound by these Terms of Service. If you do not agree with any part of these terms, you may not use the App.
 
 ## 1. Acceptance of Terms
 
@@ -11,7 +11,7 @@ By using PetrolAPI, you acknowledge that you have read, understood, and agree to
 
 ## 2. User Data Handling
 
-PetrolAPI interacts with the TikTok Developer API to access user account information, including but not limited to names, followers, and related data. You agree to handle this user data responsibly and in compliance with all applicable privacy laws and regulations.
+PetrolAPI interacts with the Developer API to access user account information, including but not limited to names, followers, and related data. You agree to handle this user data responsibly and in compliance with all applicable privacy laws and regulations.
 
 ## 3. Data Security
 
@@ -22,12 +22,12 @@ PetrolAPI will implement reasonable security measures to protect user data. Howe
 You agree not to:
 
 - Use the App for any illegal or unauthorized purpose.
-- Violate any TikTok policies or guidelines.
+- Violate any policies or guidelines.
 - Sell, lease, or sublicense access to the App or user data obtained through PetrolAPI.
 
 ## 5. Intellectual Property
 
-PetrolAPI acknowledges that TikTok retains all rights, title, and interest in and to the TikTok Developer API. PetrolAPI does not claim ownership of any TikTok trademarks or intellectual property.
+PetrolAPI acknowledges that the social media company retains all rights, title, and interest in and to the Developer API. PetrolAPI does not claim ownership of any previously mentioned company trademarks or intellectual property.
 
 ## 6. Termination
 
@@ -57,7 +57,7 @@ PetrolAPI ("we," "our," or "us") is committed to protecting the privacy of our u
 
 ### a. User Data
 
-PetrolAPI interacts with the TikTok Developer API to access user account information, including but not limited to names, followers, and related data. We only collect the information necessary for the proper functioning of the App.
+PetrolAPI interacts with the Developer API to access user account information, including but not limited to names, followers, and related data. We only collect the information necessary for the proper functioning of the App.
 
 ### b. Automatically Collected Information
 
